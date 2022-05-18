@@ -1,5 +1,5 @@
 {
-  "name": "multer",
+  "name": "multer-upgrade",
   "description": "Middleware for handling `multipart/form-data`.",
   "version": "1.0.0",
   "contributors": [
@@ -8,7 +8,6 @@
     "Linus Unnebäck <linus@folkdatorn.se>"
   ],
   "license": "MIT",
-  "repository": "expressjs/multer",
   "keywords": [
     "form",
     "post",
